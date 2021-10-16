@@ -1,0 +1,196 @@
+:root{
+    --main-color:#0044ffb5;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: mediumturquoise;
+}
+.we{
+    font-size: xx-large;
+    text-align: center;
+    margin: 10pt;
+    padding: 18pt;
+    color: rgba(156, 100, 30, 10);
+}
+.r{
+    float: right;
+}
+.l{
+    float: left;
+}
+.c{
+    clear: both;
+}
+.we{
+    font-size: xx-large;
+    text-align: center;
+    margin: 10pt;
+    padding: 18pt;
+    color: rgba(156, 100, 30, 10);
+}
+.menu{
+    background-color: #f5f5f5;
+    border-bottom: 5px solid #ccc;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    float: right;
+    padding: 15px 5px;
+    margin-left: 5px
+}
+.menu ul li a{
+    text-decoration: none;
+    font-family:Tahoma;
+    font-size: 12px;
+    color: #fe6036;
+    padding: 10px;
+    border-radius: 3px;
+}
+.menu ul li a:hover{
+    background:#fe6036;
+    color: #fff;
+}
+.Search{
+    background: #f5f5f5;
+    border-bottom: 3px solid #ccc;
+}
+.SearchForm input[type=text]{
+padding: 6px;
+font-family: tahoma;
+color: #ccc;
+width: 150px;
+border: 1px solid #eee;
+border-radius: 3px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    direction: ltr;
+    background: gainsboro;
+}
+.loginAll{
+    width: 600px;
+    margin: 90px auto;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 10px;
+}
+input[type=text]{
+    padding: 7px;
+    width: 585px;
+    border: 1px solid #eee;
+    font-family:Tahoma;
+    font-size: 12px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #ff0000;
+    background: #ccc;
+}
+input[type=password]{
+    padding: 7px;
+    width: 585px;
+    border: 1px solid #eee;
+    font-family:Tahoma;
+    font-size: 12px;
+    margin-bottom: 10px;
+    color: #ff0000;
+    background: #ccc;
+}
+.wait{
+    background: #5bcf71;
+    padding:15px 10px;
+    text-align: center;
+    font-family:Tahoma;
+    color: #fff;
+    font-size: 13px;
+    border: 1px solid #2da845;
+}
+.all{
+width: 600px;
+margin: 50px auto;
+overflow: hidden;
+}
+.adminMenu ul{
+    list-style: none;
+}
+.adminMenu ul li{
+    float: right;
+    padding: 5px;
+    text-decoration: none;
+    font-family: tahoma;
+    background: #ff0000;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.adminMenu ul li a{
+    text-decoration: none;
+    font-family: tahoma;
+    font-size: 12px;
+    color: #fff;
+}
+.adminBody{
+    background: #fff;
+    padding: 10px;
+    font-family: tahoma;
+    font-size: 13px;
+    color: #555;
+    border: 1px solid #eee;
+}
+label{
+    text-align: left;
+    font-family: tahoma;
+    color: #555;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.go{
+    border: "none";
+    border-radius: 2px;
+    padding:11px;
+    float: left;
+    color: #fff;
+    margin-top: 9px;
+    margin-right: 4px;
+}
+.p{
+    background-color: cyan;
+    margin: 1px;
+    padding: 12px;
+    border: 5px solid #f34692;
+    color: #f14692;
+    margin-top: 0.2%;
+    max-width: 205px;
+}
+body{
+    background-color: #f6f6f6;
+}
+.article{
+background: #fff;
+padding: 20px;
+margin-top: 30px;
+}
+.article a{
+    color: var(--main-color) !important;
+}
+.article button{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background: var(--main-color);
+    font-size: 16px;
+    border: 0;
+}
+.all17{
+    width: 600px;
+    margin: 90px auto;
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 10px;
+}
